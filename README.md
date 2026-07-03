@@ -1,3 +1,6 @@
+> 🔁 This project has been superseded by my consolidated portfolio repo:
+> [Decodelab-data-analytics-portfolio](https://github.com/Aleeza-Sheikh/Decodelab-data-analytics-portfolio)
+
 # 📈 DecodeLabs Data Analytics Internship Portfolio
 
 Hi, I'm Aleeza — this repository showcases the data analytics projects I completed during the DecodeLabs internship program, covering the full analytics workflow: data auditing, exploratory analysis, SQL querying, and business-focused reporting.
