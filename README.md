@@ -27,7 +27,11 @@ Each project tackles a different stage of the data analytics pipeline using a co
 - Pinpointed **Instagram and Email** as the top-performing customer acquisition channels (Project 4).
 
 ## 📬 Connect
-Feel free to explore each project folder for full notebooks, SQL files, and detailed write-ups. Open to feedback and opportunities — reach out via [LinkedIn](#) or [email](#).
+
+Feel free to explore each project folder for full notebooks, SQL files, and
+detailed write-ups. Open to feedback and opportunities — reach out via
+[LinkedIn](https://www.linkedin.com/in/aleeza-sheikh-744337339) or email me
+at aleezaaleeza228@gmail.com
 
 ---
 *All projects completed as part of the DecodeLabs Data Analytics Internship Program.*
