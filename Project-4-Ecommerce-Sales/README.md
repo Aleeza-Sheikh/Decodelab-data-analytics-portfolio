@@ -17,19 +17,20 @@ Python · Pandas · Matplotlib · Exploratory Data Analysis · Data Visualizatio
 
 1. Most Sold Products
 
-Tablets and Chairs lead in order volume (~275 orders each), while Phones sell the least (~260 orders) — signaling where inventory should be prioritized.
+Printer (181), Tablet (179) and Chair (178) are the most ordered products, while Phone is the least at 156. Order volume is fairly evenly spread, so inventory should be prioritized for the top three.
 
 2. Sales by Referral Source
 
-Instagram drives the largest share of orders (21.8%), followed by Email (20.9%) and Google (20.1%). Facebook and direct referrals trail behind, pointing to where marketing spend is most effective.
+Instagram is the top referral source at 21.6%, followed by Email at 20.8% and Google at 20.1%. Facebook (19.0%) and Referral (18.5%) are lowest. Differences are small, so marketing spend can be tested on Instagram and Email first.
 
 3. Total Revenue by Product
 
-Chairs generate the highest total revenue (~Rs 180K), while Phones generate the least (~Rs 150K) despite a narrow gap — indicating Phones carry a higher per-unit price despite lower volume.
+Chair and Printer generate the highest revenue (~Rs 196K each), while Phone generates the lowest (~Rs 152K).
 
 4. Order Status Breakdown — ⚠️ Most Important
 
-Cancelled (250) and Returned (245) orders both exceed Delivered orders (225). Over 45% of all orders are cancelled or returned, flagging a serious fulfillment or product quality issue that warrants deeper investigation.
+Order Status Breakdown [Most Important]
+Cancelled (250) and Returned (247) orders each exceed Delivered (231). Together they make up 41.4% of all 1,200 orders, a fulfillment or product-quality issue worth investigating.
 
 ✅ Results
 
