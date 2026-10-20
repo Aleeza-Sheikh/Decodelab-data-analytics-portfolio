@@ -1,6 +1,3 @@
-> 🔁 This project has been superseded by my consolidated portfolio repo:
-> [Decodelab-data-analytics-portfolio](https://github.com/Aleeza-Sheikh/Decodelab-data-analytics-portfolio)
-
 # 📈 DecodeLabs Data Analytics Internship Portfolio
 
 Hi, I'm Aleeza — this repository showcases the data analytics projects I completed during the DecodeLabs internship program, covering the full analytics workflow: data auditing, exploratory analysis, SQL querying, and business-focused reporting.
@@ -24,11 +21,10 @@ Each project tackles a different stage of the data analytics pipeline using a co
 - **Data Storytelling** — translating analysis into clear, actionable business recommendations
 
 ## 🔑 Highlighted Findings Across Projects
-- Identified a **legitimate high-value "VIP" customer segment** through outlier analysis rather than dismissing it as bad data (Project 2).
-- Flagged a **critical fulfillment issue**: cancelled and returned orders outnumbered successful deliveries in the sales dataset (Project 4).
-- Found that **revenue is driven by order volume, not item price** — a key insight for pricing and discount strategy (Project 2).
-- Pinpointed **Instagram and Email** as the top-performing customer acquisition channels (Project 4).
-
+- Identified a **legitimate high-value customer segment** through outlier analysis rather than dismissing it as bad data (Project 2).
+- Found that **41.4% of orders were cancelled or returned**, a fulfillment and product-quality issue worth investigating (Project 4).
+- Found that **revenue is driven by both unit price and quantity**, a key insight for pricing and discount strategy (Project 2).
+- Pinpointed **Instagram and Email** as the leading customer acquisition channels (Project 4).
 ## 📬 Connect
 
 Feel free to explore each project folder for full notebooks, SQL files, and
